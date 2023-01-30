@@ -2,7 +2,7 @@
 
 Chat GPT has taken the world by storm, reaching 1 million users in just the first 5 days of its launch. It is a chatbot that is used to relay information in a conversational and understandable manner. Because of how easily utilized Chat GPT is, there are many ongoings debates about how to adapt to what this program will do for education and many occupations. In this document, I will discuss two articles that highlight the risks and benefits of this innovative technology.
 
-## The Merits of Chat GPT: An Analysis of _[Chat GPT is a Tipping Point for AI]_(https://hbr.org/2022/12/chatgpt-is-a-tipping-point-for-ai)
+## The Merits of Chat GPT: An Analysis of _[Chat GPT is a Tipping Point for AI]_ (https://hbr.org/2022/12/chatgpt-is-a-tipping-point-for-ai)
 
 This article discusses how monumental Chat GPT is because it makes information more accessible and easy to understand. The article talks about the history of similar AI programs, noting that Chat GPT produces more polished and human-like answers. It also demonstrates the many ways in which Chat GPT can be utilized with interesting examples. One paragraph of the article is written by Chat GPT itself, and the author notes that the AI even revised its work based on what what author wanted. It also notes that tasks take considerably less time and effort with Chat GPT, and claims that this AI and other similar softwares will be transformative for humankind. The article also somewhat delves into the negative aspects of the AI, noting that the fact that it is capable of so much may make certain skills and jobs obsolete. 
 
